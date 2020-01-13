@@ -23,7 +23,7 @@ svg.fonttype: path
 
 grid.linestyle: -
 grid.linewidth: 1.0
-grid.color: cbcbcb
+grid.color: 001C7F
 
 xtick.major.size: 0
 xtick.minor.size: 0
