@@ -11,11 +11,11 @@ axes.facecolor: 001C7F
 axes.labelsize: large
 axes.axisbelow: true
 axes.grid: true
-axes.edgecolor: f0f0f0
+axes.edgecolor: 001C7F
 axes.linewidth: 3.0
 axes.titlesize: x-large
 
-patch.edgecolor: f0f0f0
+patch.edgecolor: 001C7F
 patch.linewidth: 0.5
 patch.facecolor: 001C7F
 
