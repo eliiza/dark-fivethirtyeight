@@ -17,6 +17,7 @@ axes.titlesize: x-large
 
 patch.edgecolor: f0f0f0
 patch.linewidth: 0.5
+patch.facecolor: 001C7F
 
 svg.fonttype: path
 
@@ -37,5 +38,4 @@ savefig.facecolor: f0f0f0
 figure.subplot.left: 0.08
 figure.subplot.right: 0.95
 figure.subplot.bottom: 0.07
-figure.facecolor: f0f0f0
-patch.facecolor: 001C7F
+figure.facecolor: 001C7F
